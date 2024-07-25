@@ -7,7 +7,7 @@
   <a href="mailto:doomspire64@gmail.com">
     <img height="40px" src="Images/Static/gmail.png" title="Mail">
   </a>
-  <a href="https://discord.com/users/675661431848566806">
+  <a href="https://discord.com/users/1222606582412611674">
     <img height="40px" src="Images/Static/discord.png" title="Discord">
   </a>
 </p>
